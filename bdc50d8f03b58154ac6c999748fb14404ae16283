@@ -1,0 +1,25 @@
+overview.md
+  94d16120d345c740 1-1532
+CLAUDE.md
+  94d16120d345c740 1-112
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.2.8",
+  "base_commit_sha": "bdc50d8f03b58154ac6c999748fb14404ae16283",
+  "prompts": {
+    "94d16120d345c740": {
+      "agent_id": {
+        "tool": "claude",
+        "id": "ec022045-efe6-40a9-8919-031c7f022bb5",
+        "model": "claude-sonnet-4-6"
+      },
+      "human_author": "jiang",
+      "messages": [],
+      "total_additions": 1644,
+      "total_deletions": 0,
+      "accepted_lines": 1644,
+      "overriden_lines": 0
+    }
+  }
+}
