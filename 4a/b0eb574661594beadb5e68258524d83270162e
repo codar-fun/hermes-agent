@@ -1,0 +1,22 @@
+overview.md
+  df076e35d6789eba 1-422
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.4.8",
+  "base_commit_sha": "4ab0eb574661594beadb5e68258524d83270162e",
+  "prompts": {
+    "df076e35d6789eba": {
+      "agent_id": {
+        "tool": "claude",
+        "id": "01534ec4-00c6-416d-b24c-3b702c407c0f",
+        "model": "claude-sonnet-4-6"
+      },
+      "human_author": "jiangplus <jiang.plus.times@gmail.com>",
+      "total_additions": 422,
+      "total_deletions": 0,
+      "accepted_lines": 422,
+      "overriden_lines": 0
+    }
+  }
+}
