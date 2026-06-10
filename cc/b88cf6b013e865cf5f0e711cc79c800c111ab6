@@ -1,0 +1,50 @@
+guides/01-安装与快速开始.md
+  s_a60e58be6fe755::t_b867d173be93ba 1-155
+guides/04-模型与提供商.md
+  s_a60e58be6fe755::t_bd0bc6c87717ef 1-181
+guides/09-MCP与插件扩展.md
+  s_a60e58be6fe755::t_1746bb349a608a 11-12
+  s_a60e58be6fe755::t_2555729df40a12 1-10,13-162
+guides/10-安全与权限.md
+  s_a60e58be6fe755::t_9406aacae12bac 1-117
+guides/05-消息网关与平台连接.md
+  s_a60e58be6fe755::t_634ddcc219c8db 1-231
+guides/02-命令行与交互.md
+  s_a60e58be6fe755::t_bf738e751d6ce7 1-167
+guides/07-技能记忆与学习闭环.md
+  s_a60e58be6fe755::t_3c42553c5e8ce1 1-139
+guides/11-网关详解-频道线程与多用户.md
+  s_a60e58be6fe755::t_2b17deff78e222 1-305
+guides/12-MCP管理详解.md
+  s_a60e58be6fe755::t_59c2045c8dde5f 1-302
+guides/03-配置详解.md
+  s_a60e58be6fe755::t_11d9b0d5137eb0 1-255
+guides/06-工具与终端后端.md
+  s_a60e58be6fe755::t_60a883064279ce 1-4,7-104
+  s_a60e58be6fe755::t_2fccf24a443a52 5-6
+guides/08-定时任务与自动化.md
+  s_a60e58be6fe755::t_da2794565a64f4 1-103
+guides/README.md
+  s_a60e58be6fe755::t_de59dfe029a3d5 26
+  s_a60e58be6fe755::t_3459dba8c40942 20
+  s_a60e58be6fe755::t_fd2c12b42a4fe9 22
+  s_a60e58be6fe755::t_53099873fabc5c 1-19,21,23-25,27-61
+overview.md
+  s_a60e58be6fe755::t_04f5e18b6dc960 1-257
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.5.6",
+  "base_commit_sha": "ccb88cf6b013e865cf5f0e711cc79c800c111ab6",
+  "prompts": {},
+  "sessions": {
+    "s_a60e58be6fe755": {
+      "agent_id": {
+        "tool": "claude",
+        "id": "c6e14ac8-cce2-47a4-b705-5207751b34ec",
+        "model": "claude-opus-4-8"
+      },
+      "human_author": "jiangplus <jiang.plus.times@gmail.com>"
+    }
+  }
+}
