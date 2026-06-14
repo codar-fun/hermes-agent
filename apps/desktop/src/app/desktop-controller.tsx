@@ -4,6 +4,7 @@ import { lazy, Suspense, useCallback, useEffect, useMemo, useRef } from 'react'
 import { Navigate, Route, Routes, useLocation, useNavigate, useParams } from 'react-router-dom'
 
 import { BootFailureOverlay } from '@/components/boot-failure-overlay'
+import { DesktopConnectionSetupOverlay } from '@/components/desktop-connection-setup-overlay'
 import { DesktopInstallOverlay } from '@/components/desktop-install-overlay'
 import { DesktopOnboardingOverlay } from '@/components/desktop-onboarding-overlay'
 import { GatewayConnectingOverlay } from '@/components/gateway-connecting-overlay'
@@ -653,6 +654,7 @@ export function DesktopController() {
 
   const overlays = (
     <>
+      <DesktopConnectionSetupOverlay />
       <DesktopInstallOverlay />
       {/* One PTY-backed terminal mounted forever; <TerminalSlot /> placeholders
           decide where it shows. Toggling fullscreen never rebuilds the shell. */}

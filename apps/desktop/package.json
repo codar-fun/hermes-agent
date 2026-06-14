@@ -166,7 +166,9 @@
     "afterSign": "scripts/notarize.cjs",
     "asarUnpack": [
       "**/*.node",
-      "**/prebuilds/**"
+      "**/prebuilds/**",
+      "public/apple-touch-icon.png",
+      "dist/apple-touch-icon.png"
     ],
     "mac": {
       "category": "public.app-category.developer-tools",

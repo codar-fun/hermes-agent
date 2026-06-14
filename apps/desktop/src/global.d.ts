@@ -69,6 +69,7 @@ declare global {
       onPowerResume?: (callback: () => void) => () => void
       onBootProgress: (callback: (payload: DesktopBootProgress) => void) => () => void
       getBootstrapState: () => Promise<DesktopBootstrapState>
+      needsBootstrapSetup: () => Promise<{ needed: boolean }>
       resetBootstrap: () => Promise<{ ok: boolean }>
       repairBootstrap: () => Promise<{ ok: boolean }>
       cancelBootstrap: () => Promise<{ ok: boolean; cancelled: boolean }>
