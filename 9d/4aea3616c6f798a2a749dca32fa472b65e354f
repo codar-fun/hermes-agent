@@ -1,0 +1,31 @@
+apps/desktop/electron/preload.cjs
+  s_9dc36bec0b5e67::t_47c788ff23d032 111
+apps/desktop/src/app/desktop-controller.tsx
+  s_9dc36bec0b5e67::t_50b4e0c16860cb 657
+  s_9dc36bec0b5e67::t_eb4be089493eb5 7
+apps/desktop/electron/main.cjs
+  s_9dc36bec0b5e67::t_a0e4d13eeabef8 271-272,274
+  s_9dc36bec0b5e67::t_655ebf1a023254 4666
+apps/desktop/package.json
+  s_9dc36bec0b5e67::t_67aee78360f355 169-171
+apps/desktop/src/global.d.ts
+  s_9dc36bec0b5e67::t_834f818c63f8a3 72
+apps/desktop/src/components/desktop-connection-setup-overlay.tsx
+  s_9dc36bec0b5e67::t_443cd533a24e00 1-288
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.5.6",
+  "base_commit_sha": "9d4aea3616c6f798a2a749dca32fa472b65e354f",
+  "prompts": {},
+  "sessions": {
+    "s_9dc36bec0b5e67": {
+      "agent_id": {
+        "tool": "claude",
+        "id": "6356a783-6c46-4594-af4e-2bc9743327c2",
+        "model": "claude-sonnet-4-6"
+      },
+      "human_author": "jiangplus <jiang.plus.times@gmail.com>"
+    }
+  }
+}
